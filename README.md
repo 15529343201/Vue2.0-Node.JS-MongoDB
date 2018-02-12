@@ -37,3 +37,9 @@ Vue和React相同点<br>
 核心思想:<br>
 - 数据驱动
 - 组件化
+
+通过MVVM的数据绑定实现自动同步<br>
+![image](https://github.com/15529343201/Vue2.0-Node.JS-MongoDB/blob/chapter1/image/7.PNG)
+Vue组件化<br>
+![image](https://github.com/15529343201/Vue2.0-Node.JS-MongoDB/blob/chapter1/image/8.PNG)
+
