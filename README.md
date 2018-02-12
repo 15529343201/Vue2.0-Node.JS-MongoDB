@@ -28,3 +28,12 @@ Vue和React相同点<br>
 ![image](https://github.com/15529343201/Vue2.0-Node.JS-MongoDB/blob/chapter1/image/4.PNG)
 ![image](https://github.com/15529343201/Vue2.0-Node.JS-MongoDB/blob/chapter1/image/5.PNG)
 ![image](https://github.com/15529343201/Vue2.0-Node.JS-MongoDB/blob/chapter1/image/6.PNG)
+
+### vue概况以及核心思想
+- Vue本身并不是一个框架
+- Vue结合周边生态系统构成一个灵活的、渐进式的框架
+
+声明式渲染(Declaralive Rendering)-->组件系统(Component System)-->客户端路由(Client-Slide Routing)-->大规模状态管理(Large Scaie State Management)-->构建工具(Build System)<br>
+核心思想:<br>
+- 数据驱动
+- 组件化
