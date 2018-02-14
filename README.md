@@ -109,3 +109,26 @@ Vue多页面应用文件引用<br>
 vue-cli构建SPA应用<br>
 - npm install -g vue-cli
 - vue init webpack-simple demo
+
+### Vue基础语法介绍
+模板语法<br>
+- Mustache语法:{{msg}}
+- Html赋值:v-html=""
+- 绑定属性:v-bind:id=""
+- 使用表达式:{{ok ? 'YES':'NO'}}
+- 文本赋值:v-text=""
+- 指令:v-if=""
+- 过滤器:{{message | capitalize}}和v-bind:id="rawId | formatId"
+
+Class和Style绑定<br>
+- 对象语法:v-bind:class="{active:isActive,'text-danger':hasError}"
+- 数组语法:
+
+```
+<div v-bind:class="|activeClass,errorClass|">
+data: {
+  activeClass: 'active',
+  errorClass: 'text-danger'
+}
+```
+- style绑定-对象语法:v-bind:style="{color:activeColor,fontSize:fontSize+'px'}"
