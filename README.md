@@ -83,3 +83,11 @@ Vue如何实现双向数据绑定?<br>
 ```
 ![image](https://github.com/15529343201/Vue2.0-Node.JS-MongoDB/blob/chapter1/image/10.PNG)
 
+前置知识<br>
+- html/css/js
+- Vue
+- ES6
+- Node
+- Npm
+- Webpack
+
