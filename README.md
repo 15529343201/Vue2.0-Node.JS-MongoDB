@@ -99,3 +99,6 @@ Vue如何实现双向数据绑定?<br>
 - Vue构建数据驱动的web界面的渐进式框架
 - Express基于Node.js平台,快速、开放、极简的web开发框架
 
+下载地址:https://nodejs.org/en/download/<br>
+npm install -g cnpm --registry=https://registry.npm.taobao.org<br>
+
