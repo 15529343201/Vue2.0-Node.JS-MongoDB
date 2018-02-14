@@ -81,3 +81,5 @@ Vue如何实现双向数据绑定?<br>
 </body>
 </html>
 ```
+![image](https://github.com/15529343201/Vue2.0-Node.JS-MongoDB/blob/chapter1/image/10.PNG)
+
