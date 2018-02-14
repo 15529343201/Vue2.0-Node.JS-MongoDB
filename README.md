@@ -91,3 +91,11 @@ Vue如何实现双向数据绑定?<br>
 - Npm
 - Webpack
 
+### nodejs和npm的安装和环境搭建
+- Webpack 代码模块化构建打包工具
+- Gulp基于流的自动化构建工具
+- Grunt JavaScript世界的构建工具
+- Babel使用最新的规范来编写js
+- Vue构建数据驱动的web界面的渐进式框架
+- Express基于Node.js平台,快速、开放、极简的web开发框架
+
