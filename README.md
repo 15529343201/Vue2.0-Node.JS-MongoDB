@@ -102,3 +102,10 @@ Vue如何实现双向数据绑定?<br>
 下载地址:https://nodejs.org/en/download/<br>
 npm install -g cnpm --registry=https://registry.npm.taobao.org<br>
 
+### vue环境搭建以及vue-cli使用
+Vue多页面应用文件引用<br>
+- 官网拷贝:<script src="https://unpkg.com/vue/dist/vue.js"></script>
+- npm安装
+vue-cli构建SPA应用<br>
+- npm install -g vue-cli
+- vue init webpack-simple demo
